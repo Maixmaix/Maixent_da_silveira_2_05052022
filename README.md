@@ -1,4 +1,4 @@
-# Reservia
+# Booki
 
 Projet 2 du parcours Développeur Web d'Openclassrooms.
 
